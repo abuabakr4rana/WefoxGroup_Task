@@ -31,9 +31,11 @@ Python challenge consists of three files.
 1. main.py
 2. api_usage.py
 3. database_connectivity.py
-
-
-
+## Assumptions
+1 There are two ways to get results from API. 
+  * Get information against one zip_code.
+  * Get information against multiple zip_code.
+2 While using the Zipcode API, it is assumed that all the zip_codes present in the order table are passed to API request and all of the them are valid. API is returning all required information against the zipcodes. 
 
 
 ### api_usage.py

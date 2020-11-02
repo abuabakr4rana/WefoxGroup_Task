@@ -66,7 +66,7 @@ SQL challenge consists of one file
 
 1. optimise_people_count.sql
 
-![ScreenShot](https://github.com/abuabakr4rana/WefoxGroup_Task})
+![ScreenShot](https://github.com/abuabakr4rana/WefoxGroup_Task/Capture.JPG})
 
 
 ## Author
